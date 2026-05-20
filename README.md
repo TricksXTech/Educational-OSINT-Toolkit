@@ -23,3 +23,8 @@ Install dependencies:
 
 ```bash
 pip install requests beautifulsoup4 python-whois
+```
+
+Run Script
+```bash
+python osint.py
